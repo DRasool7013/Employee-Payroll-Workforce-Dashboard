@@ -54,7 +54,7 @@ Star schema with one fact table and three dimension tables:
 
 Full physical schema with relationships (1-to-many, single direction, from each dimension into the fact table):
 
-![Physical Data Model](Images/Physical_Data_Model.png)
+![Physical Data Model](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Physical_Datamodel.png)
 
 ---
 
