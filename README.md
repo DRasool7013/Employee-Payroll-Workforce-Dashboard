@@ -43,7 +43,7 @@ Employee-Payroll-Workforce-Dashboard/
 
 Star schema with one fact table and three dimension tables:
 
-![Conceptual Model](Images/Conceptual_Model.png)
+![Conceptual Model](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Conceptual_Model.png)
 
 | Table | Key Columns |
 |---|---|
