@@ -73,7 +73,7 @@ RETURN DIVIDE(CurrentM - PrevM, PrevM, 0)
 
 Two report pages, five shared slicers, five KPI cards, and ten charts — detailed in full in the [README](README.md#-charts--the-business-questions-they-answer).
 
-![Dashboard Page 1](Images/Dashboard_Page1_Overview.png)
+![Dashboard Page 1](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Dashboard-Page1_Overview.png)
 ![Dashboard Page 2](Images/Dashboard_Page2_Workforce_Insights.png)
 
 ## 6. Outcomes / Insights
