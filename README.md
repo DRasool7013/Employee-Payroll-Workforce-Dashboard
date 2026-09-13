@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that analyzes employee payroll cost, salary distribution, and workforce composition across departments, locations, designations, and gender — built on a star-schema data model.
 
-![Dashboard Page 1 - Overview](Images/Dashboard_Page1_Overview.png)
+![Dashboard Page 1 - Overview](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Dashboard-Page1_Overview.png)
 
 ---
 
