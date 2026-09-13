@@ -30,7 +30,7 @@ The source data models a company's payroll system as a star schema with one tran
 
 Relationships: `Fact Sales` connects to `Dim Employee` on `EmployeeID`, to `Dim Department` on `DeptID`, and to `Dim Calendar` on `SalaryDate` → `Date` — all single-direction, one (dimension) to many (fact).
 
-![Conceptual Model](Images/Conceptual_Model.png)
+![Conceptual Model](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Conceptual_Model.png)
 
 ## 3. Cleaning & Modeling Process
 
