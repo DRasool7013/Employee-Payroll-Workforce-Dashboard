@@ -134,7 +134,7 @@ Open "Power BI File/Employee-Payroll_&_Workforce_Dashboard.pbix" in Power BI Des
 Home → Refresh
 ```
 
-See **[Documentation.md](Documentation.md)** for the full write-up: project goal, dataset description, data-cleaning steps, DAX measures, final results, and insights.
+See **[Documentation.md](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Documentation%20.md)** for the full write-up: project goal, dataset description, data-cleaning steps, DAX measures, final results, and insights.
 
 ---
 
