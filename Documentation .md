@@ -46,7 +46,7 @@ The raw data is intentionally messy — typical of an unclean HR export:
 
 ## 4. Data Model
 
-![Conceptual Model](Images/Conceptual_Model.png)
+![Conceptual Model](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Physical_Datamodel.png)
 
 | Table | Role | Fields |
 |---|---|---|
