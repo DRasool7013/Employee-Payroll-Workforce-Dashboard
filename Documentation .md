@@ -55,7 +55,7 @@ The raw data is intentionally messy — typical of an unclean HR export:
 | **Dim Department** | One row per department | `DeptID`, `DeptName`, `Location` |
 | **Dim Calendar** | Standard date table | `Date`, `MONTH`, `QUARTER`, `WEEKDAY`, `YEAR`, `Month Name` |
 
-![Physical Data Model]([Images/Physical_Datamodel.png](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Physical_Datamodel.png))
+![Physical Data Model](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Physical_Datamodel.png))
 
 ## 5. Measures (DAX)
 
