@@ -117,7 +117,7 @@ Full physical schema with relationships (1-to-many, single direction, from each 
 | Average Net Salary by Department & Gender (column) | How does average salary differ by department and gender? |
 | Employees Joined by Year (line) | How has headcount grown — employees joined by year? |
 
-![Dashboard Page 2 - Workforce Insights](Images/Dashboard-Page2_Workforce_Insights.png)
+![Dashboard Page 2 - Workforce Insights](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Dashboard-Page2_Workforce_Insights.png)
 
 ---
 
