@@ -19,7 +19,7 @@ Specifically, the dashboard was built to answer:
 
 ## 2. Dataset Description
 
-Source: `[Original Data/Employee-Payroll_dataset.xlsx](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Employee-Payroll_dataset.xlsx)`, a raw workbook with three sheets:
+Source: ![Original Data/Employee-Payroll_dataset.xlsx]([Images/Physical_Datamodel.png](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Employee-Payroll_dataset.xlsx))`, a raw workbook with three sheets:
 
 | Sheet | Rows (excl. header) | Columns |
 |---|---|---|
