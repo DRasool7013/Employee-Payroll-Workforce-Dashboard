@@ -88,7 +88,7 @@ RETURN DIVIDE(CurrentM - PrevM, PrevM, 0)
 
 ## 6. Final Result
 
-Two report pages, five shared slicers, five KPI cards, and ten charts — see the [README](README.md#-charts--the-business-questions-they-answer) for the full chart-to-question mapping.
+Two report pages, five shared slicers, five KPI cards, and ten charts — see the [README](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/README.md) for the full chart-to-question mapping.
 
 ![Dashboard Page 1](Images/Dashboard-Page1_Overview.png)
 ![Dashboard Page 2](Images/Dashboard-Page2_Workforce_Insights.png)
