@@ -117,7 +117,7 @@ Full physical schema with relationships (1-to-many, single direction, from each 
 
 ---
 
-See **[Documentation.md](Documentation.md)** for the full write-up: project goal, dataset description, data-cleaning steps, DAX measures, final results, and insights.
+See **[Documentation.md](https://github.com/DRasool7013/Employee-Payroll-Workforce-Dashboard/blob/main/Documentation.md)** for the full write-up: project goal, dataset description, data-cleaning steps, DAX measures, final results, and insights.
 
 ---
 
