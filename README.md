@@ -155,5 +155,6 @@ git push -u origin main
 ---
 
 ## 👤 Author
-
-Built as a Power BI portfolio project. Feedback and suggestions welcome via Issues/PRs.
+**D. Alla Rasool**
+📧 rasoolpinjari0@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/drasool7663) • [Portfolio](#)
