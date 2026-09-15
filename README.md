@@ -155,6 +155,10 @@ git push -u origin main
 ---
 
 ## 👤 Author
-**D. Alla Rasool**
+
+** D. Alla Rasool **
+Data Analyst | Excel · Data Visualization · Business Analysis
 📧 rasoolpinjari0@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/drasool7663) • [Portfolio](#)
+🔗 LinkedIn: [www.linkedin.com/in/drasool7663]
+🔗 GitHub: [www.github.com/DRasool7013]
+•  [Portfolio](#)
